@@ -3,6 +3,7 @@
 This is a simple client-server implementation of an echo server with multi-threaded support in C.
 
 Objecttive:
+
   -Learn about the working and usage of pthreads in c and how multithreading works.
   - Learn about the concept of sockets and how they can be implemented in c.
 
